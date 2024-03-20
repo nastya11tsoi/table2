@@ -1,2 +1,21 @@
 # table2
-$a^2=b^2 + c^2$
+# A first-level heading
+## A second-level heading
+### A third-level heading
+#### A fifth-level heading
+##### A sixth-level heading
+> A block quote
+>
+> 
+**дом**  
+*палатка*
+
+`дерево`
+
+~~замок~~
+
+superscript<sup>hfghgjgjhs2</sup>
+
+An inline equation,E=m*c. An equation block (below)
+
+$$E=mc$$
