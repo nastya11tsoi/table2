@@ -19,3 +19,8 @@ superscript<sup>hfghgjgjhs2</sup>
 An inline equation,E=m*c. An equation block (below)
 
 $$E=mc$$
+
+1. Пункт первый
+    - Подпункт первый
+    - Подпункт второй
+2. Пункт второй
