@@ -16,11 +16,14 @@
 
 superscript<sup>hfghgjgjhs2</sup>
 
-An inline equation,E=m*c. An equation block (below)
+An inline equation, $E=m*c$ . An equation block (below)
 
 $$E=mc$$
+
+<address@example.com>
 
 1. Пункт первый
     - Подпункт первый
     - Подпункт второй
 2. Пункт второй
+   
